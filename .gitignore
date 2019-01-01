@@ -1,6 +1,3 @@
-# The libraries folder is needed for development and testing, but is no part
-# of the repository
+# The libraries folder is used for stand along development and testing,
+# but is not part of the repository
 libraries
-# the visual studio code editor configuration information should not included
-# in the repository either
-.vscode
